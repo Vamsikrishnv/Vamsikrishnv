@@ -7,7 +7,7 @@
 
 ## 🚀 What I’ve Done
 
-I bring 4 years of experience designing and scaling cloud-native **SaaS, FinTech**, and **AI-driven** platforms — blending clean Java backend systems with intuitive React/Next.js interfaces, topped with GenAI magic.
+I bring 3+ years of experience designing and scaling cloud-native **SaaS, FinTech**, and **AI-driven** platforms — blending clean Java backend systems with intuitive React/Next.js interfaces, topped with GenAI magic.
 
 - 🔄 **Built a Subscription Management SaaS** (subsjet.com) → 400+ active users, 100+ monthly email triggers
 - 🎙️ **Created AI Mock Interview System** → Real-time GPT-4 + Voice feedback with Vapi, 200+ beta testers
