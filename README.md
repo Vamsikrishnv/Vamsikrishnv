@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vamsi Krishna
+# 👋 Hi, I’m Vamshi Krishna
 
 🎯 **Full Stack + AI Engineer** | Java • Spring Boot • React/Next.js • AWS • LangChain • LLMs • Agents  
 📍 New York, NY | Actively open to Full-Time Roles
