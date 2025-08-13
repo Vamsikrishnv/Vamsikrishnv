@@ -1,17 +1,19 @@
 # 👋 Hi, I’m Vamshi Krishna
 
-🎯 **Full Stack + AI/ML Engineer** | Java • Spring Boot • React/Next.js • AWS • LangChain • LLMs • Agents  
-📍 New York, NY 
+🎯 **AI/ML & GenAI Engineer** | LLMs • Agents • RAG • Cloud-Native ML • LangChain • AWS/GCP  
+📍 New York, NY | Open to Full-Time AI/ML Engineering Roles | 
 ---
 
 ## 🚀 What I’ve Done
 
-I bring 3+ years of experience designing and scaling cloud-native **SaaS, FinTech**, and **AI-driven** platforms — blending clean Java backend systems with intuitive React/Next.js interfaces, topped with GenAI magic.
+I Build AI That Works in Production
+I specialize in **designing, deploying, and scaling AI/ML systems** — from fine-tuning large language models to orchestrating multi-agent workflows that automate real-world business operations.
 
-- 🔄 **Built a Subscription Management SaaS** (subsjet.com) → 400+ active users, 100+ monthly email triggers
-- 🎙️ **Created AI Mock Interview System** → Real-time GPT-4 + Voice feedback with Vapi, 200+ beta testers
-- 🧠 Engineered GenAI-powered **career path advisors** with LangChain Agents + RAG Pipelines for KeelWorks.org
-- ⚙️ Migrated Fortune 500 supply-chain monoliths to AWS ECS → cut infra costs by 30%
+- 🤖 **LLM Applications** — LangChain, LangGraph, CrewAI, AutoGen  
+- 🧠 **RAG Pipelines** — Pinecone, Snowflake Cortex, Vector Search Optimization  
+- 🛠 **Model Training & Fine-Tuning** — GPT, LLaMA, Hugging Face, Vertex AI, SageMaker  
+- ☁️ **Cloud AI Deployments** — AWS, GCP, CI/CD for ML, MLOps best practices  
+- 📦 **End-to-End AI Products** — From research → prototype → production API
 
 ---
 
@@ -37,11 +39,13 @@ I'm actively seeking **Full-Time Engineering Roles** where I can:
 ## 🧰 Tech Stack at a Glance
 
 ```yaml
-Languages: Java 17, TypeScript, Python
-Backend: Spring Boot 3, FastAPI, Kafka, Microservices, REST, GraphQL
-Frontend: React 18, Next.js 14, Tailwind CSS, Redux Toolkit
-AI & GenAI: OpenAI, LangChain, LangGraph, CrewAI, AutoGen, Pinecone, Snowflake Cortex, Hugging Face, LLaMA, GPT
-ML/DL: TensorFlow, PyTorch, Keras, Vertex AI, AWS SageMaker, RAG, Fine-Tuning, Object Detection, Image Classification
-Infra & DevOps: AWS (Lambda, ECS, RDS, S3), GCP (Vertex AI, Cloud Functions), Docker, GitHub Actions, Terraform
-Databases: MongoDB, PostgreSQL, Redis
+Core AI & GenAI: LangChain, LangGraph, CrewAI, AutoGen, Retrieval-Augmented Generation (RAG), Pinecone, Snowflake Cortex, Hugging Face, LLaMA, GPT
+ML/DL Frameworks: TensorFlow, PyTorch, Keras, Vertex AI, AWS SageMaker, Fine-Tuning, Transfer Learning
+NLP: Transformer Models, Prompt Engineering, Hallucination Mitigation, Intent Classification
+Computer Vision: Object Detection, Image Classification, Satellite & SAR Image Analysis
+Cloud & MLOps: AWS (Lambda, SageMaker, S3, ECS, RDS), GCP (Vertex AI, Cloud Functions), CI/CD for ML & Apps (Docker, GitHub Actions, Terraform)
+Full Stack Development: Backend – Java 17, Spring Boot 3, FastAPI, Node.js; Frontend – React 18, Next.js 14, Tailwind CSS, Redux Toolkit; API Design – REST, GraphQL; Microservices Architecture, Kafka Messaging
+Databases: PostgreSQL, MongoDB, Redis
+Programming Languages: Python, Java, TypeScript
 Security: JWT, OAuth 2.0, Spring Security
+
