@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Vamshi Krishna
 
-🎯 **Full Stack + AI Engineer** | Java • Spring Boot • React/Next.js • AWS • LangChain • LLMs • Agents  
-📍 New York, NY | Actively open to Full-Time Roles
-
+🎯 **Full Stack + AI/ML Engineer** | Java • Spring Boot • React/Next.js • AWS • LangChain • LLMs • Agents  
+📍 New York, NY 
 ---
 
 ## 🚀 What I’ve Done
@@ -38,10 +37,11 @@ I'm actively seeking **Full-Time Engineering Roles** where I can:
 ## 🧰 Tech Stack at a Glance
 
 ```yaml
-Languages: Java 17, TypeScript, Python  
-Backend: Spring Boot 3, FastAPI, Kafka, Microservices, REST, GraphQL  
-Frontend: React 18, Next.js 14, Tailwind CSS, Redux Toolkit  
-AI & GenAI: OpenAI, LangChain, Pinecone, Amazon Bedrock, Ollama  
-Infra: AWS (Lambda, ECS, RDS), Docker, GitHub Actions, Terraform  
-Databases: MongoDB, PostgreSQL, Redis  
-Security: JWT, OAuth 2.0, Spring Security  
+Languages: Java 17, TypeScript, Python
+Backend: Spring Boot 3, FastAPI, Kafka, Microservices, REST, GraphQL
+Frontend: React 18, Next.js 14, Tailwind CSS, Redux Toolkit
+AI & GenAI: OpenAI, LangChain, LangGraph, CrewAI, AutoGen, Pinecone, Snowflake Cortex, Hugging Face, LLaMA, GPT
+ML/DL: TensorFlow, PyTorch, Keras, Vertex AI, AWS SageMaker, RAG, Fine-Tuning, Object Detection, Image Classification
+Infra & DevOps: AWS (Lambda, ECS, RDS, S3), GCP (Vertex AI, Cloud Functions), Docker, GitHub Actions, Terraform
+Databases: MongoDB, PostgreSQL, Redis
+Security: JWT, OAuth 2.0, Spring Security
