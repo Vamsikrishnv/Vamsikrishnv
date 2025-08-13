@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Vamshi Krishna
 
 🎯 **AI/ML & GenAI Engineer** | LLMs • Agents • RAG • Cloud-Native ML • LangChain • AWS/GCP  
-📍 New York, NY | Open to Full-Time AI/ML Engineering Roles | 
+📍 New York, NY |
 ---
 
 ## 🚀 What I’ve Done
