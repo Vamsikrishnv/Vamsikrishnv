@@ -1,33 +1,33 @@
-# 👋 Hi, I’m Vamshi Krishna
+#  Hi, I’m Vamshi Krishna
 
-🎯 **AI/ML & GenAI Engineer** | LLMs • Agents • RAG • Cloud-Native ML • LangChain • AWS/GCP  
-📍 New York, NY |
+AI/ML & GenAI Engineer** | LLMs • Agents • RAG • Cloud-Native ML • LangChain • AWS/GCP  
+New York, NY |
 ---
 
-## 🚀 What I’ve Done
+What I’ve Done
 
 I Build AI That Works in Production
 I specialize in **designing, deploying, and scaling AI/ML systems** — from fine-tuning large language models to orchestrating multi-agent workflows that automate real-world business operations.
 
-- 🤖 **LLM Applications** — LangChain, LangGraph, CrewAI, AutoGen  
-- 🧠 **RAG Pipelines** — Pinecone, Snowflake Cortex, Vector Search Optimization  
-- 🛠 **Model Training & Fine-Tuning** — GPT, LLaMA, Hugging Face, Vertex AI, SageMaker  
-- ☁️ **Cloud AI Deployments** — AWS, GCP, CI/CD for ML, MLOps best practices  
-- 📦 **End-to-End AI Products** — From research → prototype → production API
+- LLM Applications** — LangChain, LangGraph, CrewAI, AutoGen  
+- RAG Pipelines** — Pinecone, Snowflake Cortex, Vector Search Optimization  
+- Model Training & Fine-Tuning** — GPT, LLaMA, Hugging Face, Vertex AI, SageMaker  
+- Cloud AI Deployments** — AWS, GCP, CI/CD for ML, MLOps best practices  
+- End-to-End AI Products** — From research → prototype → production API
 
 ---
 
-## 🧠 What I’m Working On
+## What I’m Working On
 
 Right now, I’m deep into:
-- 🤖 Building **AI Agents** that plan, remember, and automate — fitness, SEO, personal scheduling, and more
-- 🧩 Integrating **LangChain**, **Ollama**, **OpenAI GPT-4o**, and **n8n** into real-world task flows
-- 📦 Structuring production-ready **LLM APIs** using Spring Boot + FastAPI
-- 🧠 Experimenting with **open-source LLMs** + vector search (Pinecone, Weaviate, Amazon Bedrock)
+- Building **AI Agents** that plan, remember, and automate — fitness, SEO, personal scheduling, and more
+- Integrating **LangChain**, **Ollama**, **OpenAI GPT-4o**, and **n8n** into real-world task flows
+- Structuring production-ready **LLM APIs** using Spring Boot + FastAPI
+- Experimenting with **open-source LLMs** + vector search (Pinecone, Weaviate, Amazon Bedrock)
 
 ---
 
-## 🧭 What I’m Looking For
+## What I’m Looking For
 
 I'm actively seeking **Full-Time Engineering Roles** where I can:
 - Solve real-world problems using **LLMs, AI Workflows, and Full Stack Engineering**
@@ -36,7 +36,7 @@ I'm actively seeking **Full-Time Engineering Roles** where I can:
 
 ---
 
-## 🧰 Tech Stack at a Glance
+## Tech Stack at a Glance
 
 ```yaml
 Core AI & GenAI: LangChain, LangGraph, CrewAI, AutoGen, Retrieval-Augmented Generation (RAG), Pinecone, Snowflake Cortex, Hugging Face, LLaMA, GPT
