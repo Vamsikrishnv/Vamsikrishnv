@@ -100,15 +100,7 @@ Full-stack engineering
 
 ---
 
-## A quiet aesthetic
 
-If you want a light anime touch without noise:
-- Add a single header image (dark, minimal, anime-inspired)
-- Keep everything else monochrome and clean
-- Let the content carry the signal
-
-Recommended file path:
-- `./assets/header-dark-anime.png`
 
 ---
 
