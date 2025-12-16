@@ -98,9 +98,6 @@ Full-stack engineering
 - A release that can be repeated without heroics  
 - Metrics that reflect business reality, not vanity  
 
----
-
-
 
 ---
 
