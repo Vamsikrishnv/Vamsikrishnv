@@ -103,7 +103,6 @@ Full-stack engineering
 
 ## Stats
 
-If you want the stats card, this version uses your correct username:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&theme=github_dark&cache_seconds=1800)
 
