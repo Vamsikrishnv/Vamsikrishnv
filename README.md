@@ -112,7 +112,7 @@ Recommended file path:
 
 ---
 
-## Stats (optional)
+## Stats
 
 If you want the stats card, this version uses your correct username:
 
