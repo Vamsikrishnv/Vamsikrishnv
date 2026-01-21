@@ -13,7 +13,7 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/krishna9177/">
+  <a href="https://www.linkedin.com/in/vamshi-krishna-thipparaveni/">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e9c46a" />
   </a>
   &nbsp;
