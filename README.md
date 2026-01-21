@@ -8,179 +8,124 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=E9C46A&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Mechanical+Design+Engineer+%7C+3%2B+Years;Automation+%26+Robotics+Systems;Exploring+AI%2FML+for+Manufacturing;Building+Smart+Industrial+Solutions" alt="Typing SVG" />
 </a>
 
-<br><br>
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Badges -->
-<a href="https://www.linkedin.com/in/krishna9177/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e9c46a" />
-</a>
-&nbsp;
-<a href="mailto:vamshikrishnathipparaveni@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e9c46a" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Vamsikrishnv&label=Profile+Views&color=0a0a0a&style=for-the-badge" />
+<p>
+  <a href="https://www.linkedin.com/in/krishna9177/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e9c46a" />
+  </a>
+  &nbsp;
+  <a href="mailto:vamshikrishnathipparaveni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e9c46a" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Vamsikrishnv&label=Profile+Views&color=0a0a0a&style=for-the-badge" />
+</p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-## About
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 ```yaml
-Role: Mechanical Design Engineer
-Experience: 3+ Years
-Focus: Automation Systems | Manufacturing | Process Optimization
-Currently: Exploring AI/ML applications in Industry 4.0
-Location: United States
+name: Vamshi Krishna
+role: Mechanical Design Engineer
+experience: 3+ Years
+location: United States
+focus: Automation Systems | Manufacturing | Process Optimization
+learning: AI/ML applications for Industry 4.0
 ```
 
-I design automation systems and optimize manufacturing processes. Now bridging mechanical engineering with AI/ML to build smarter industrial solutions—computer vision for quality control, predictive maintenance, and intelligent workflows.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-## Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Technical Skills
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+### Engineering & Design
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks_(CSWP)-0a0a0a?style=for-the-badge&logo=dassaultsystemes&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/AutoCAD-0a0a0a?style=for-the-badge&logo=autodesk&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/CATIA-0a0a0a?style=for-the-badge&logo=dassaultsystemes&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/GD%26T-0a0a0a?style=for-the-badge&logoColor=e9c46a" />
+</p>
 
-### Engineering
-<br>
-
-<img src="https://img.shields.io/badge/SolidWorks_(CSWP)-0a0a0a?style=flat-square&logo=dassaultsystemes&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/CATIA-0a0a0a?style=flat-square&logo=dassaultsystemes&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/AutoCAD-0a0a0a?style=flat-square&logo=autodesk&logoColor=e9c46a" />
-<br><br>
-<img src="https://img.shields.io/badge/GD%26T-0a0a0a?style=flat-square&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/DFM%2FDFA-0a0a0a?style=flat-square&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/Tolerance_Analysis-0a0a0a?style=flat-square&logoColor=e9c46a" />
-<br><br>
-<img src="https://img.shields.io/badge/Lean_Manufacturing-0a0a0a?style=flat-square&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/Teamcenter_PLM-0a0a0a?style=flat-square&logo=siemens&logoColor=e9c46a" />
-
-</td>
-<td align="center" width="50%">
+### Manufacturing & Process
+<p>
+  <img src="https://img.shields.io/badge/DFM%2FDFA-0a0a0a?style=for-the-badge&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/Lean_Manufacturing-0a0a0a?style=for-the-badge&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/Tolerance_Analysis-0a0a0a?style=for-the-badge&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/Teamcenter_PLM-0a0a0a?style=for-the-badge&logo=siemens&logoColor=e9c46a" />
+</p>
 
 ### Tech & AI/ML
-<br>
-
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=e9c46a" />
-<br><br>
-<img src="https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=chainlink&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/OpenAI-0a0a0a?style=flat-square&logo=openai&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/Computer_Vision-0a0a0a?style=flat-square&logo=opencv&logoColor=e9c46a" />
-<br><br>
-<img src="https://img.shields.io/badge/n8n-0a0a0a?style=flat-square&logo=n8n&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=e9c46a" />
-<img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=e9c46a" />
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/LangChain-0a0a0a?style=for-the-badge&logo=chainlink&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/Computer_Vision-0a0a0a?style=for-the-badge&logo=opencv&logoColor=e9c46a" />
+  <img src="https://img.shields.io/badge/n8n-0a0a0a?style=for-the-badge&logo=n8n&logoColor=e9c46a" />
+</p>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-## Learning Focus
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Learning Focus
 
 <div align="center">
 
 ```
-┌────────────────────────────────────────────────────────────────┐
-│                    AI/ML  ×  MANUFACTURING                     │
-├────────────────────────────────────────────────────────────────┤
-│                                                                │
-│   ▸ Computer Vision         Quality Inspection & Control       │
-│   ▸ Predictive Analytics    Maintenance & Optimization         │
-│   ▸ Process Automation      Smart Workflows                    │
-│   ▸ Industrial IoT          Connected Systems                  │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                    AI/ML FOR MANUFACTURING                      │
+├─────────────────────────────────────────────────────────────────┤
+│  ◈ Computer Vision ──────────── Quality Inspection Systems     │
+│  ◈ Process Automation ───────── Workflow Optimization          │
+│  ◈ Data Analytics ───────────── Statistical Process Control    │
+│  ◈ Industrial IoT ───────────── Sensor Integration             │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-## Projects
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |:--------|:------------|:-----:|
-| [**FitMentor Form Analyzer**](https://github.com/Vamsikrishnv/fitmentor-form-Analyzer) | CV-based quality control applicable to manufacturing & safety | `Python` `CV` |
-| [**AI Mock Interviews**](https://github.com/Vamsikrishnv/AI-Mock-Interviews) | Voice-based LLM platform with GPT-4 & Vapi | `TypeScript` `Next.js` |
-| [**n8n Workflows**](https://github.com/Vamsikrishnv/n8n-workflows) | Automation workflows for APIs & serverless orchestration | `n8n` |
-| [**Subscription Tracker**](https://github.com/Vamsikrishnv/Subscription-tracker) | Full-stack app with JWT auth & Upstash workflows | `JavaScript` |
-| [**MLOps Demo**](https://github.com/Vamsikrishnv/mlops-diabetes-demo) | End-to-end ML pipeline demonstration | `Python` `MLOps` |
+| [**FitMentor Form Analyzer**](https://github.com/Vamsikrishnv/fitmentor-form-Analyzer) | CV-based quality control for manufacturing & safety | `Python` `CV` |
+| [**AI Mock Interviews**](https://github.com/Vamsikrishnv/AI-Mock-Interviews) | Voice-based LLM platform with GPT-4 & Vapi | `TypeScript` |
+| [**n8n Workflows**](https://github.com/Vamsikrishnv/n8n-workflows) | Automation workflows for APIs & orchestration | `n8n` |
+| [**Subscription Tracker**](https://github.com/Vamsikrishnv/Subscription-tracker) | Full-stack app with JWT auth & Upstash | `JavaScript` |
+| [**MLOps Demo**](https://github.com/Vamsikrishnv/mlops-diabetes-demo) | End-to-end ML pipeline | `Python` `MLOps` |
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-## GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e9c46a&icon_color=e9c46a&text_color=c9c9c9" height="160"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Vamsikrishnv&hide_border=true&background=0a0a0a&stroke=e9c46a&ring=e9c46a&fire=e9c46a&currStreakNum=c9c9c9&sideNums=c9c9c9&currStreakLabel=e9c46a&sideLabels=e9c46a&dates=888888" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e9c46a&icon_color=e9c46a&text_color=c9c9c9" height="165"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Vamsikrishnv&hide_border=true&background=0a0a0a&stroke=e9c46a&ring=e9c46a&fire=e9c46a&currStreakNum=c9c9c9&sideNums=c9c9c9&currStreakLabel=e9c46a&sideLabels=e9c46a&dates=888888" height="165"/>
 
 </div>
 
 <br>
 
+<!-- Snake Animation - Using working demo URL -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsikrishnv&bg_color=0a0a0a&color=e9c46a&line=e9c46a&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
-
-## Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vamsikrishnv/Vamsikrishnv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vamsikrishnv/Vamsikrishnv/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Vamsikrishnv/Vamsikrishnv/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect
 
 <div align="center">
 
