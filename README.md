@@ -106,15 +106,24 @@ current_mission: Bridging mechanical engineering with intelligent systems
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsikrishnv&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+
+<!-- Using github-readme-stats with cache busting -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&theme=github_dark&hide_border=true" />
+</picture>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Vamsikrishnv&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Vamsikrishnv&theme=github-dark-blue&hide_border=true" />
+</picture>
 
 </div>
 
-<!-- Snake Animation -->
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsikrishnv&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
