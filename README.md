@@ -96,7 +96,7 @@ learning: AI/ML applications for Industry 4.0
 
 | Project | Description | Stack |
 |:--------|:------------|:-----:|
-| [**FitMentor Form Analyzer**](https://github.com/Vamsikrishnv/fitmentor-form-Analyzer) | CV-based quality control for manufacturing & safety | `Python` `CV` |
+| [**Computer-Vision-Quality-Control**](https://github.com/Vamsikrishnv/fitmentor-form-Analyzer) | CV-based quality control for manufacturing & safety | `Python` `CV` |
 | [**AI Mock Interviews**](https://github.com/Vamsikrishnv/AI-Mock-Interviews) | Voice-based LLM platform with GPT-4 & Vapi | `TypeScript` |
 | [**n8n Workflows**](https://github.com/Vamsikrishnv/n8n-workflows) | Automation workflows for APIs & orchestration | `n8n` |
 | [**Subscription Tracker**](https://github.com/Vamsikrishnv/Subscription-tracker) | Full-stack app with JWT auth & Upstash | `JavaScript` |
