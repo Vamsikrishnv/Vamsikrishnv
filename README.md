@@ -1,96 +1,130 @@
 <div align="center">
 
-  <h1>Vamshi Krishna</h1>
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Vamshi%20Krishna&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Mechanical%20Design%20Engineer%20|%20Automation%20Systems&descSize=18&descAlignY=55&descColor=8b949e"/>
 
-  <p><strong>Mechanical Design Engineer | Automation Systems | Manufacturing Innovation</strong></p>
-  <p>Mechanical engineer with 3+ years of experience designing automation systems, managing BOMs, and optimizing manufacturing processes. Currently exploring how AI/ML technologies can enhance manufacturing quality control, process optimization, and industrial automation.</p>
+<!-- Animated Typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=3%2B+Years+in+Automation+%26+Manufacturing;Exploring+AI%2FML+for+Industry+4.0;Building+the+Future+of+Smart+Manufacturing" alt="Typing SVG" />
+</a>
 
-  <p>
-    <a href="https://www.linkedin.com/in/krishna9177/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:vamshikrishnathipparaveni@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-  <p>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Vamsikrishnv&label=Profile%20Views&color=0b1220&style=flat" />
-  </p>
+<!-- Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/krishna9177/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+  </a>
+  <a href="mailto:vamshikrishnathipparaveni@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
+  </a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Vamsikrishnv&label=Profile%20Views&color=0d1117&style=for-the-badge" />
+</p>
 
 </div>
 
----
+<!-- About Section with Animated Icon -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-## Professional Background
+```yaml
+name: Vamshi Krishna
+role: Mechanical Design Engineer
+experience: 3+ Years
+location: United States
+focus: Automation Systems | Manufacturing Innovation | AI/ML for Industry
 
-I approach engineering the way I approach problem-solving: understand the constraints first, then design the simplest system that reliably delivers results.
+current_mission: Bridging mechanical engineering with intelligent systems
+```
 
-- Automation & robotics subsystem design
-- Manufacturing process optimization
-- Product lifecycle management (PLM/BOM)
-- Cross-functional engineering collaboration
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Technical Skills
 
-## Technical Learning Focus
+<div align="center">
 
-Actively studying AI/ML applications for manufacturing:
-
-- Computer vision for quality inspection
-- Process automation and optimization
-- Data-driven manufacturing analytics
-- Industrial IoT and sensor systems
-
----
-
-## Skills
-
-<p align="center">
-  <img alt="SolidWorks" src="https://img.shields.io/badge/SolidWorks%20(CSWP)-0b1220?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-  <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0b1220?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img alt="CATIA" src="https://img.shields.io/badge/CATIA-0b1220?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-  <img alt="GD&T" src="https://img.shields.io/badge/GD%26T-0b1220?style=for-the-badge&logoColor=white" />
+### Engineering & Design
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks%20(CSWP)-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/AutoCAD-0d1117?style=for-the-badge&logo=autodesk&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/CATIA-0d1117?style=for-the-badge&logo=dassaultsystemes&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/GD%26T-0d1117?style=for-the-badge&logoColor=58a6ff" />
 </p>
 
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel%20(Advanced)-0b1220?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img alt="Teamcenter" src="https://img.shields.io/badge/Teamcenter%20PLM-0b1220?style=for-the-badge&logo=siemens&logoColor=white" />
+### Manufacturing & Process
+<p>
+  <img src="https://img.shields.io/badge/DFM%2FDFA-0d1117?style=for-the-badge&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Lean%20Manufacturing-0d1117?style=for-the-badge&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Tolerance%20Analysis-0d1117?style=for-the-badge&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Teamcenter%20PLM-0d1117?style=for-the-badge&logo=siemens&logoColor=58a6ff" />
 </p>
 
-<p align="center">
-  <img alt="DFM/DFA" src="https://img.shields.io/badge/DFM%2FDFA-0b1220?style=for-the-badge&logoColor=white" />
-  <img alt="Tolerance Analysis" src="https://img.shields.io/badge/Tolerance%20Analysis-0b1220?style=for-the-badge&logoColor=white" />
-  <img alt="Lean Manufacturing" src="https://img.shields.io/badge/Lean%20Manufacturing-0b1220?style=for-the-badge&logoColor=white" />
+### Analytics & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Excel%20(Advanced)-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff" />
 </p>
 
----
+</div>
 
-## Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-Exploring practical applications of emerging technologies in manufacturing contexts:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Learning Focus
 
-**Computer Vision Quality Control**
-- Applying CV techniques to manufacturing inspection workflows
-- Demonstrates potential for AI-enhanced quality systems
+<div align="center">
 
-**Manufacturing Data Analysis**
-- Process optimization using data analytics
-- Statistical process control exploration
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    AI/ML FOR MANUFACTURING                      │
+├─────────────────────────────────────────────────────────────────┤
+│  ◈ Computer Vision ──────────── Quality Inspection Systems     │
+│  ◈ Process Automation ───────── Workflow Optimization          │
+│  ◈ Data Analytics ───────────── Statistical Process Control    │
+│  ◈ Industrial IoT ───────────── Sensor Integration             │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-**Automation Workflow Studies**
-- Understanding modern automation platforms
-- Learning emerging automation technologies
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Stats
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&theme=github_dark&cache_seconds=1800)
+<div align="center">
 
----
+| Project | Description | Focus |
+|:-------:|:-----------:|:-----:|
+| 🔍 **CV Quality Control** | AI-enhanced inspection workflows | Computer Vision |
+| 📊 **Manufacturing Analytics** | Data-driven process optimization | Statistical Analysis |
+| ⚙️ **Automation Studies** | Modern automation platforms | Workflow Design |
 
-## Connect
+</div>
 
-If you're working on manufacturing automation, process optimization, or exploring AI/ML applications in industrial settings, I'm always open to practical conversations.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Vamsikrishnv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamsikrishnv&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect
+
+<div align="center">
+
+**Open to conversations about manufacturing automation, process optimization, and AI/ML in industrial settings.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+
+</div>
