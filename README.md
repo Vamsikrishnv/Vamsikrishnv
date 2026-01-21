@@ -186,10 +186,53 @@ Now exploring how AI can write the next chapter of industrial innovation.
 
 </div>
 
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                           THE CINEMATIC REEL                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## ◤ THE REEL ◢
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsikrishnv&bg_color=0d1117&color=e9c46a&line=e9c46a&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+```
+                          ┌─────────────────────────────────────┐
+                          │     C O N T R I B U T I O N S      │
+                          │          ─────────────────          │
+                          │       A  Y E A R  I N  M O T I O N  │
+                          └─────────────────────────────────────┘
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vamsikrishnv/Vamsikrishnv/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vamsikrishnv/Vamsikrishnv/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vamsikrishnv/Vamsikrishnv/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<br>
+
+*Every commit tells a story. Every contribution, a frame in the reel.*
+
+</div>
+
+<br>
+
+<!-- Activity Graph as Film Strip -->
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━ 📽️ ACTIVITY TIMELINE 📽️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsikrishnv&bg_color=0d1117&color=e9c46a&line=e9c46a&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Timeline%20%E2%80%94%20The%20Story%20Unfolds" width="95%"/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
 <p align="center">
@@ -201,15 +244,35 @@ Now exploring how AI can write the next chapter of industrial innovation.
 <div align="center">
 
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  "The best engineers don't just solve problems—they tell stories 
-   through the systems they build."
-   
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                             ┃
+┃   "The best engineers don't just solve problems—they tell stories           ┃
+┃    through the systems they build."                                         ┃
+┃                                                                             ┃
+┃                                              — A Builder's Philosophy       ┃
+┃                                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
+<br>
+
+**◈ DIRECTED & ENGINEERED BY ◈**
+
+*Vamshi Krishna*
+
+<br>
+
 **Open to collaborations on manufacturing automation, smart systems, and projects that push boundaries.**
+
+<br>
+
+<!-- Film Slate Style -->
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║  🎬 SCENE: Next Chapter          📅 DATE: 2025                             ║
+║  🎥 DIRECTOR: Vamshi Krishna     🎞️ TAKE: ∞                                ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
