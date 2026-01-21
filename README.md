@@ -37,6 +37,26 @@ focus: Automation Systems | Manufacturing | Process Optimization
 learning: AI/ML applications for Industry 4.0
 ```
 
+### How I Work
+
+I don't just build systems—I build systems that **last**. Every project starts with understanding the real problem, not jumping to solutions.
+
+```
+My approach:
+├── Simplify first, optimize later
+├── Make it work → Make it right → Make it fast
+├── Document like someone else will maintain it
+└── If it can't be explained simply, it's not ready
+```
+
+**What I believe:**
+- **Clarity over cleverness** — Clean solutions beat complex hacks
+- **Learn by building** — Theory without practice is just noise
+- **Fail fast, fix faster** — Iteration beats perfection
+- **Bridge the gap** — The future is where mechanical meets intelligent
+
+I come from the manufacturing floor. I understand constraints, timelines, and what it means when a system fails at 2 AM. That's why I build things that are reliable first, impressive second.
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Technical Skills
@@ -96,7 +116,7 @@ learning: AI/ML applications for Industry 4.0
 
 | Project | Description | Stack |
 |:--------|:------------|:-----:|
-| [**Computer-Vision-Quality-Control**](https://github.com/Vamsikrishnv/fitmentor-form-Analyzer) | CV-based quality control for manufacturing & safety | `Python` `CV` |
+| [**FitMentor Form Analyzer**](https://github.com/Vamsikrishnv/fitmentor-form-Analyzer) | CV-based quality control for manufacturing & safety | `Python` `CV` |
 | [**AI Mock Interviews**](https://github.com/Vamsikrishnv/AI-Mock-Interviews) | Voice-based LLM platform with GPT-4 & Vapi | `TypeScript` |
 | [**n8n Workflows**](https://github.com/Vamsikrishnv/n8n-workflows) | Automation workflows for APIs & orchestration | `n8n` |
 | [**Subscription Tracker**](https://github.com/Vamsikrishnv/Subscription-tracker) | Full-stack app with JWT auth & Upstash | `JavaScript` |
